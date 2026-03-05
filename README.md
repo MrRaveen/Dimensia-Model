@@ -1,4 +1,4 @@
-# Dementia Prediction Model - ModelX Competition
+# Dementia Prediction Model
 
 A machine learning-based clinical decision support system for dementia risk stratification using the National Alzheimer's Coordinating Center (NACC) dataset. This project implements advanced feature engineering, gradient boosting models, and explainability techniques to predict dementia risk with high accuracy and clinical interpretability.
 
